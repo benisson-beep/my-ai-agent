@@ -1,0 +1,27 @@
+{
+  "name": "my-ai-agent",
+  "version": "1.0.0",
+  "description": "Learning and building my own AI agent from scratch, documenting everything from the fundamentals to a functional production-ready agent.\r # 🤖 My AI Agent",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benisson-beep/my-ai-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benisson-beep/my-ai-agent/issues"
+  },
+  "homepage": "https://github.com/benisson-beep/my-ai-agent#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^7.13.0"
+  }
+}
